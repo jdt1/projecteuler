@@ -1,0 +1,6 @@
+E:\Cloud\IT\Project Euler\Problem17\Problem17\bin\Debug\Problem17.exe.config
+E:\Cloud\IT\Project Euler\Problem17\Problem17\bin\Debug\Problem17.exe
+E:\Cloud\IT\Project Euler\Problem17\Problem17\bin\Debug\Problem17.pdb
+E:\Cloud\IT\Project Euler\Problem17\Problem17\obj\Debug\Problem17.csprojResolveAssemblyReference.cache
+E:\Cloud\IT\Project Euler\Problem17\Problem17\obj\Debug\Problem17.exe
+E:\Cloud\IT\Project Euler\Problem17\Problem17\obj\Debug\Problem17.pdb

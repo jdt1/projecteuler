@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../home/jim/exercism/csharp/leap/LeapTest.cs">
+    <Files>
+      <File FileName="../../../../../home/jim/exercism/csharp/leap/LeapTest.cs" Line="1" Column="23" />
+      <File FileName="../../../../../home/jim/exercism/csharp/leap/Year.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
